@@ -1,0 +1,92 @@
+.header{
+	color: white;
+	height: auto;
+	width: 90%;
+	background-color: #0F5699;
+	padding: 15px;
+	margin: 0 auto 5px; 
+	text-align: left;
+	font-size: xx-large;
+	box-sizing: border-box;
+	box-shadow: 2px 3px 20px black;
+	
+
+
+}
+.logo_with_bestcars::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.Best_Cars{
+	float:left;
+	padding: 9px;
+}
+#logo{
+	border: 1px solid white;
+	width: 150px;
+	height: auto;
+	color: white;
+	padding:5px;
+	box-sizing: border-box;
+	float: left;
+	text-decoration: underline red;
+
+}
+
+ul li{
+	display: inline;
+	font-size: 30px;
+	padding: 40px;
+	
+
+
+
+}
+ul li a{
+	color: white;	
+	text-decoration:none;
+	border-left: 1px solid grey;
+	padding-left: 10px;
+}	
+ul {
+	background-color:#385067;
+	margin:auto; 
+	width: 90%;
+	height: 40px;
+	box-sizing: border-box;
+	box-shadow: 2px 3px 20px black;
+
+
+}
+.main {
+	color: white;
+	background-color: #5384C1;
+	height: 300pt;
+	width: 90%; 
+	margin:auto;
+	box-shadow: 2px 3px 20px black;
+	box-sizing: border-box;
+	padding: 50px;
+	font-size: large;
+
+
+	
+}
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: white;
+}
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: #0F5699;
+}
+ 
+
+
